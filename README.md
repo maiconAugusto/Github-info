@@ -1,3 +1,3 @@
-## github-info
-# required dependencies 
+# github-info
+## required dependencies 
 - axios
